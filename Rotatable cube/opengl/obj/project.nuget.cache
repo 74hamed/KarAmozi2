@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmjnLlHtdNIFgyk1QWJ2Bw/A/flku3y6Iv5D0Y1IHi9HIsWDYkSM7+bfwVQY9H8s/JXMHM+h4sV2s9f8zYykrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hamed\\Desktop\\KarAmozi-master\\opengl\\opengl\\opengl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hamed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hamed\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hamed\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hamed\\.nuget\\packages\\sharpgl\\3.1.1\\sharpgl.3.1.1.nupkg.sha512",
+    "C:\\Users\\Hamed\\.nuget\\packages\\sharpgl.scenegraph\\3.1.1\\sharpgl.scenegraph.3.1.1.nupkg.sha512",
+    "C:\\Users\\Hamed\\.nuget\\packages\\sharpgl.winforms\\3.1.1\\sharpgl.winforms.3.1.1.nupkg.sha512",
+    "C:\\Users\\Hamed\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hamed\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
